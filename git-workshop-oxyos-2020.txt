@@ -1,1 +1,3 @@
+Hi World!
+Jasmine is here. 
 This is a merge conflict. Boo!
