@@ -1,5 +1,11 @@
+
 Hi World!
 
 Scott is here. 
 
 New branch let's goooo
+
+Jasmine washere.
+beebaadoooo
+This is a merge conflict. Boo!
+
