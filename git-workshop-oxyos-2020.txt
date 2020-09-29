@@ -1,9 +1,1 @@
-Hi World!
-
-Jasmine is here. 
-
-
-Blalblablablablallab
-
-
-Hello, this is jasmine from the future.
+This is a merge conflict. Boo!
